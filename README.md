@@ -11,6 +11,10 @@ Respond to user interactions.
 - Create a script.js file and link it to a HTML.
 - Structure the document using DOCTYPE, html, head, and body.
 
+  ADDITIONAL KNOWLEDGE
+  - i have used w3schools for better understanding
+  - 
+
 >[!NOTE]
 >  - Write JavaScript that:
 >  - Changes text content dynamically.
